@@ -2,7 +2,7 @@
 
 ## Main
 
-* https://yangzichao.github.io/interviews-all-in-one/
+* https://yangzichao.github.io/cs-notes/
 * main branch 用来发布 mdbook, 别又push到master了
 * md-auto-summary.py 
 使用了如上的python脚本自动生成 mdbook 所需的 SUMMARY.md 常用的就如下语句：       
@@ -17,3 +17,5 @@
 # Java
 暂时打算抄袭这个
 https://github.com/frank-lam/fullstack-tutorial/tree/master/notes/JavaArchitecture
+
+
